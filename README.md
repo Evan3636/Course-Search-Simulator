@@ -1,1 +1,1 @@
-Qipeng's first website
+Side Project - Simulator for Waterloo Course Search
